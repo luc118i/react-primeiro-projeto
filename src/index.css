@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body,
+htm1 {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+
+.text-highlight {
+  color: #00ffcc; /* Cor destaque */
+  font-weight: bold;
+}
